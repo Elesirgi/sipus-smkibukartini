@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section login-section">
+  <div class="wrap login-wrap">
+    <div class="login-card">
+      <div class="book-anim book-anim-sm" aria-hidden="true">
+        <div class="book-anim-base"></div>
+        <div class="book-anim-cover"></div>
+      </div>
+      <p class="eyebrow">Panel Admin</p>
+      <h1 class="section-title login-title">Masuk ke SIPUS</h1>
+      <p class="login-lead">Masuk untuk mengelola data buku dan anggota perpustakaan.</p>
+
+      <% if (error) { %>
+        <div class="form-error"><%= error %></div>
+      <% } %>
+
+      <form class="admin-form login-form" action="/login" method="POST">
+        <input type="hidden" name="next" value="<%= nextUrl %>">
+
+        <label class="form-field form-field-wide">
+          <span>Username</span>
+          <input type="text" name="username" required autofocus autocomplete="username">
+        </label>
+
+        <label class="form-field form-field-wide">
+          <span>Password</span>
+          <input type="password" name="password" required autocomplete="current-password">
+        </label>
+
+        <div class="form-actions form-actions-full">
+          <button type="submit" class="btn btn-primary">Masuk</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

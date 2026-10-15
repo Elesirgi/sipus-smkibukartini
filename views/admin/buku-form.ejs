@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="id"><head><%- include('../partials/head') %></head><body class="admin-page"><%- include('../partials/header') %>
+<main><section class="section page-hero"><div class="wrap admin-page-title"><div><p class="eyebrow">Panel Admin</p><h1 class="section-title"><%= book?'Edit Buku':'Tambah Buku Baru' %></h1><p>Data koleksi dan cover disimpan di storage persisten perpustakaan.</p></div><a class="btn btn-ghost" href="/admin/buku">← Kembali</a></div></section>
+<section class="section"><div class="wrap admin-form-wrap"><form class="admin-form" action="<%= formAction %>" method="POST" enctype="multipart/form-data">
+<% if(error){ %><div class="form-error"><%= error %></div><% } %>
+<div class="admin-form-section-title">Informasi Buku</div><div class="form-grid">
+<label class="form-field"><span>Judul Buku</span><input name="title" required value="<%= book?.title||'' %>"></label>
+<label class="form-field"><span>Penulis</span><input name="author" required value="<%= book?.author||'' %>"></label>
+<label class="form-field"><span>Penerbit</span><input name="publisher" value="<%= book?.publisher||'' %>"></label>
+<label class="form-field"><span>Tahun Terbit</span><input type="number" name="year" min="1900" max="2100" value="<%= book?.year||'' %>"></label>
+<label class="form-field"><span>Kode Inventaris</span><input name="inventoryCode" placeholder="IBK-BK023" value="<%= book?.inventoryCode||'' %>"></label>
+<label class="form-field"><span>ISBN</span><input name="isbn" value="<%= book?.isbn||'' %>"></label>
+<label class="form-field"><span>Kategori</span><select name="category" required><option value="" disabled <%= !book?'selected':'' %>>Pilih kategori…</option><% categories.forEach(c=>{ %><option value="<%= c.slug %>" <%= book?.category===c.slug?'selected':'' %>><%= c.name %></option><% }) %></select></label>
+<label class="form-field"><span>Mata Pelajaran</span><input name="subject" value="<%= book?.subject||'' %>"></label>
+<label class="form-field"><span>Kelas / Fase</span><input name="grade" value="<%= book?.grade||'' %>"></label>
+<label class="form-field"><span>Jumlah Eksemplar</span><input type="number" name="totalCopies" min="1" max="1000" required value="<%= book?.totalCopies||50 %>"><small class="form-hint">Default 50 eksemplar. Admin dapat mengubahnya.</small></label>
+<label class="form-field"><span>Lokasi Rak</span><input name="shelfLocation" value="<%= book?.shelfLocation||'' %>"></label>
+</div>
+<div class="admin-form-section-title">Cover Buku</div>
+<div class="upload-box"><label class="form-field form-field-wide"><span>Upload Cover Buku</span><input type="file" name="coverFile" accept="image/jpeg,image/png,image/webp" <%= book?'':'required' %>></label><p class="form-note">Format JPG, PNG, atau WEBP. Maksimal 3 MB. Cover disimpan sebagai file lokal dan disimpan di data buku agar tetap aman saat project diperbarui.</p><% if(book?.cover){ %><div class="current-upload"><img src="<%= /^\/uploads\/covers\//.test(book.cover||'') ? '/book-cover/' + encodeURIComponent(book.id) + '?v=' + Date.now() : book.cover %>" alt="Cover saat ini"><span>Cover saat ini. Upload file baru untuk menggantinya.</span></div><% } %></div>
+<label class="form-field form-field-wide"><span>Deskripsi</span><textarea name="description" rows="5"><%= book?.description||'' %></textarea></label>
+<div class="form-actions"><a class="btn btn-ghost" href="/admin/buku">Batal</a><button class="btn btn-primary" type="submit"><%= book?'Simpan Perubahan':'Tambah Buku' %></button></div>
+</form></div></section></main><%- include('../partials/footer') %></body></html>

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "fiksi",
+    "name": "Fiksi & Sastra",
+    "accent": "red",
+    "description": "Novel, cerpen, puisi, dan karya sastra Indonesia maupun terjemahan."
+  },
+  {
+    "slug": "non-fiksi",
+    "name": "Non-Fiksi & Pengetahuan Umum",
+    "accent": "green",
+    "description": "Buku pengembangan diri, biografi, sejarah, dan wawasan umum."
+  },
+  {
+    "slug": "pelajaran",
+    "name": "Buku Pelajaran & Kejuruan",
+    "accent": "yellow",
+    "description": "Buku paket dan referensi pelajaran sesuai kompetensi keahlian."
+  },
+  {
+    "slug": "referensi",
+    "name": "Referensi & Teknologi",
+    "accent": "teal",
+    "description": "Kamus, ensiklopedia, dan buku teknologi/komputer."
+  },
+  {
+    "id": "KT001",
+    "name": "Buku Khayalan",
+    "slug": "buku-khayalan",
+    "description": "Uhuuuuuyy"
+  }
+]

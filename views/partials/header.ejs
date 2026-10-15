@@ -1,0 +1,60 @@
+<div class="ticker-wrap">
+  <div class="ticker-track">
+    <% for (let i = 0; i < 2; i++) { %>
+      <% site.tickerItems.forEach(function(item) { %>
+        <span><%= item %></span><span class="dot">●</span>
+      <% }); %>
+    <% } %>
+  </div>
+</div>
+
+<header class="site-header" id="top">
+  <div class="wrap header-inner">
+    <a class="brand" href="<%= user && user.role === 'admin' ? '/admin' : '/' %>">
+      <span class="brand-mark" aria-hidden="true">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 5.5C4 4.67 4.67 4 5.5 4H11V19H5.5C4.67 19 4 18.33 4 17.5V5.5Z" fill="currentColor" opacity=".55"/>
+          <path d="M20 5.5C20 4.67 19.33 4 18.5 4H13V19H18.5C19.33 19 20 18.33 20 17.5Z" fill="currentColor"/>
+        </svg>
+      </span>
+      <span class="brand-name">SIPUS<br><small>SMK IBU KARTINI</small></span>
+    </a>
+
+    <% if (user && user.role === 'admin') { %>
+      <nav class="main-nav admin-only-nav" id="mainNav">
+        <a href="/admin" class="active"><span class="nav-admin-dot" aria-hidden="true"></span>Admin</a>
+        <div class="nav-cta">
+          <span class="nav-user">Halo, <%= user.name || 'Admin Perpustakaan' %></span>
+          <form action="/logout" method="POST" class="nav-logout-form">
+            <button type="submit" class="btn btn-ghost btn-sm">Keluar</button>
+          </form>
+        </div>
+      </nav>
+    <% } else { %>
+      <nav class="main-nav" id="mainNav">
+        <a href="/" class="<%= currentPath === '/' ? 'active' : '' %>">Beranda</a>
+        <a href="/katalog" class="<%= currentPath.startsWith('/katalog') ? 'active' : '' %>">Katalog Buku</a>
+        <a href="/kategori" class="<%= currentPath === '/kategori' ? 'active' : '' %>">Kategori</a>
+        <a href="/anggota" class="<%= currentPath.startsWith('/anggota') ? 'active' : '' %>">Anggota</a>
+        <a href="/peminjaman" class="<%= currentPath === '/peminjaman' ? 'active' : '' %>">Peminjaman</a>
+        <div class="nav-cta">
+          <a href="/katalog" class="nav-cta-search">Cari Buku</a>
+          <% if (user) { %>
+            <span class="nav-user">Halo, <%= user.name %></span>
+            <form action="/logout" method="POST" class="nav-logout-form">
+              <button type="submit" class="btn btn-ghost btn-sm">Keluar</button>
+            </form>
+          <% } else { %>
+            <a href="/admin/login" class="btn btn-ghost btn-sm">Login Admin</a>
+          <% } %>
+        </div>
+      </nav>
+    <% } %>
+
+    <button class="nav-toggle" id="navToggle" aria-label="Buka menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<div class="nav-scrim" id="navScrim"></div>

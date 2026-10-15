@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap">
+    <p class="eyebrow">Keanggotaan</p>
+    <h1 class="section-title">Daftar Anggota Perpustakaan</h1>
+    <p style="max-width:640px; font-size:1.02rem;">Seluruh siswa dan guru yang terdaftar sebagai anggota aktif perpustakaan SMK Ibu Kartini Semarang.</p>
+    <form class="search-form" method="GET" action="/anggota"><input class="search-input" type="search" name="q" value="<%= query || '' %>" placeholder="Cari nama, ID, atau kelas..."><button class="btn btn-primary btn-sm">Cari</button></form>
+    <p class="result-count"><%= members.length %> dari <%= totalMembers %> anggota</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="member-grid">
+      <% members.forEach(function(m) { %>
+        <a class="member-card" href="/anggota/<%= m.id %>">
+          <div class="member-avatar"><%= m.name.charAt(0) %></div>
+          <div class="member-info">
+            <h3><%= m.name %></h3>
+            <p><%= m.role %> · <%= m.kelas %></p>
+          </div>
+          <% if (m.activeLoanCount > 0) { %>
+            <span class="member-badge"><%= m.activeLoanCount %> dipinjam</span>
+          <% } %>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

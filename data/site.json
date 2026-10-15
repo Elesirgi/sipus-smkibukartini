@@ -1,0 +1,19 @@
+{
+  "schoolName": "SMK Ibu Kartini Semarang",
+  "libraryName": "SIPUS SMK Ibu Kartini",
+  "libraryFullName": "Sistem Informasi Perpustakaan SMK Ibu Kartini Semarang",
+  "tagline": "Membaca, Belajar, Berkarya",
+  "phone": "081227227256",
+  "phoneDisplay": "+62 812-2722-7256",
+  "email": "smkibukartinismg@gmail.com",
+  "whatsappLink": "https://wa.me/+6281227227256",
+  "instagram": "https://www.instagram.com/smkibukartini/",
+  "address": "Jl. Sultan Agung No. 77, Semarang",
+  "openHours": "Senin\u2013Jumat, 07.00\u201314.30 WIB",
+  "tickerItems": [
+    "Selamat datang di SIPUS \u2014 Sistem Informasi Perpustakaan SMK Ibu Kartini Semarang.",
+    "Jam layanan: Senin\u2013Jumat, 07.00\u201314.30 WIB.",
+    "Kembalikan buku tepat waktu untuk menghindari keterlambatan.",
+    "Koleksi buku baru terus diperbarui setiap semester."
+  ]
+}

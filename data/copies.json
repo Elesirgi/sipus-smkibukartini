@@ -1,0 +1,7702 @@
+[
+  {
+    "id": "IBK-BK001-01",
+    "bookId": "BK001",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-02",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-03",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-04",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-05",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-06",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-07",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-08",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-09",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-10",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-11",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-12",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-13",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-14",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-15",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-16",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-17",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-18",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-19",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-20",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-21",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-22",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-23",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-24",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-25",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-26",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-27",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-28",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-29",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-30",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-31",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-32",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-33",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-34",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-35",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-36",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-37",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-38",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-39",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-40",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-41",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-42",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-43",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-44",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-45",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-46",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-47",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-48",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-49",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK001-50",
+    "bookId": "BK001",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-01"
+  },
+  {
+    "id": "IBK-BK002-01",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-02",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-03",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-04",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-05",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-06",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-07",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-08",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-09",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-10",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-11",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-12",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-13",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-14",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-15",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-16",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-17",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-18",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-19",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-20",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-21",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-22",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-23",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-24",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-25",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-26",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-27",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-28",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-29",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-30",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-31",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-32",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-33",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-34",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-35",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-36",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-37",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-38",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-39",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-40",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-41",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-42",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-43",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-44",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-45",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-46",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-47",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-48",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-49",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK002-50",
+    "bookId": "BK002",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-02"
+  },
+  {
+    "id": "IBK-BK003-01",
+    "bookId": "BK003",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-02",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-03",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-04",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-05",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-06",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-07",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-08",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-09",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-10",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-11",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-12",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-13",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-14",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-15",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-16",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-17",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-18",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-19",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-20",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-21",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-22",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-23",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-24",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-25",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-26",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-27",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-28",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-29",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-30",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-31",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-32",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-33",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-34",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-35",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-36",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-37",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-38",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-39",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-40",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-41",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-42",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-43",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-44",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-45",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-46",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-47",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-48",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-49",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK003-50",
+    "bookId": "BK003",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak A-03"
+  },
+  {
+    "id": "IBK-BK004-01",
+    "bookId": "BK004",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-02",
+    "bookId": "BK004",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-03",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-04",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-05",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-06",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-07",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-08",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-09",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-10",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-11",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-12",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-13",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-14",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-15",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-16",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-17",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-18",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-19",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-20",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-21",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-22",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-23",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-24",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-25",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-26",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-27",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-28",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-29",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-30",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-31",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-32",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-33",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-34",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-35",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-36",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-37",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-38",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-39",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-40",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-41",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-42",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-43",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-44",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-45",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-46",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-47",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-48",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-49",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK004-50",
+    "bookId": "BK004",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-01"
+  },
+  {
+    "id": "IBK-BK005-01",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-02",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-03",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-04",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-05",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-06",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-07",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-08",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-09",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-10",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-11",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-12",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-13",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-14",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-15",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-16",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-17",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-18",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-19",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-20",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-21",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-22",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-23",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-24",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-25",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-26",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-27",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-28",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-29",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-30",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-31",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-32",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-33",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-34",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-35",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-36",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-37",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-38",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-39",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-40",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-41",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-42",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-43",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-44",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-45",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-46",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-47",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-48",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-49",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK005-50",
+    "bookId": "BK005",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak B-02"
+  },
+  {
+    "id": "IBK-BK006-01",
+    "bookId": "BK006",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-02",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-03",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-04",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-05",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-06",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-07",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-08",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-09",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-10",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-11",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-12",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-13",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-14",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-15",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-16",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-17",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-18",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-19",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-20",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-21",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-22",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-23",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-24",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-25",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-26",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-27",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-28",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-29",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-30",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-31",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-32",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-33",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-34",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-35",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-36",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-37",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-38",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-39",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-40",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-41",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-42",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-43",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-44",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-45",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-46",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-47",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-48",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-49",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK006-50",
+    "bookId": "BK006",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-01"
+  },
+  {
+    "id": "IBK-BK007-01",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-02",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-03",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-04",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-05",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-06",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-07",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-08",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-09",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-10",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-11",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-12",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-13",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-14",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-15",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-16",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-17",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-18",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-19",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-20",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-21",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-22",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-23",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-24",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-25",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-26",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-27",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-28",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-29",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-30",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-31",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-32",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-33",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-34",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-35",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-36",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-37",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-38",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-39",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-40",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-41",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-42",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-43",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-44",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-45",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-46",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-47",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-48",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-49",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK007-50",
+    "bookId": "BK007",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-02"
+  },
+  {
+    "id": "IBK-BK008-01",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-02",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-03",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-04",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-05",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-06",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-07",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-08",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-09",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-10",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-11",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-12",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-13",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-14",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-15",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-16",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-17",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-18",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-19",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-20",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-21",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-22",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-23",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-24",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-25",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-26",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-27",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-28",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-29",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-30",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-31",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-32",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-33",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-34",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-35",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-36",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-37",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-38",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-39",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-40",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-41",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-42",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-43",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-44",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-45",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-46",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-47",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-48",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-49",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK008-50",
+    "bookId": "BK008",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak C-03"
+  },
+  {
+    "id": "IBK-BK009-01",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-02",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-03",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-04",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-05",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-06",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-07",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-08",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-09",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-10",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-11",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-12",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-13",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-14",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-15",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-16",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-17",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-18",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-19",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-20",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-21",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-22",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-23",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-24",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-25",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-26",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-27",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-28",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-29",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-30",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-31",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-32",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-33",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-34",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-35",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-36",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-37",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-38",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-39",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-40",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-41",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-42",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-43",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-44",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-45",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-46",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-47",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-48",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-49",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK009-50",
+    "bookId": "BK009",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-01"
+  },
+  {
+    "id": "IBK-BK010-01",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-02",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-03",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-04",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-05",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-06",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-07",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-08",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-09",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-10",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-11",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-12",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-13",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-14",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-15",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-16",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-17",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-18",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-19",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-20",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-21",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-22",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-23",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-24",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-25",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-26",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-27",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-28",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-29",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-30",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-31",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-32",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-33",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-34",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-35",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-36",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-37",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-38",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-39",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-40",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-41",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-42",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-43",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-44",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-45",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-46",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-47",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-48",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-49",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK010-50",
+    "bookId": "BK010",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-02"
+  },
+  {
+    "id": "IBK-BK011-01",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-02",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-03",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-04",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-05",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-06",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-07",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-08",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-09",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-10",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-11",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-12",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-13",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-14",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-15",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-16",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-17",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-18",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-19",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-20",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-21",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-22",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-23",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-24",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-25",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-26",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-27",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-28",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-29",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-30",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-31",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-32",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-33",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-34",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-35",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-36",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-37",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-38",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-39",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-40",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-41",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-42",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-43",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-44",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-45",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-46",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-47",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-48",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-49",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK011-50",
+    "bookId": "BK011",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak D-03"
+  },
+  {
+    "id": "IBK-BK012-01",
+    "bookId": "BK012",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-02",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-03",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-04",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-05",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-06",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-07",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-08",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-09",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-10",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-11",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-12",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-13",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-14",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-15",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-16",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-17",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-18",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-19",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-20",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-21",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-22",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-23",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-24",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-25",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-26",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-27",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-28",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-29",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-30",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-31",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-32",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-33",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-34",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-35",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-36",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-37",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-38",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-39",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-40",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-41",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-42",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-43",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-44",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-45",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-46",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-47",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-48",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-49",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK012-50",
+    "bookId": "BK012",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-01"
+  },
+  {
+    "id": "IBK-BK013-01",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-02",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-03",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-04",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-05",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-06",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-07",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-08",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-09",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-10",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-11",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-12",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-13",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-14",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-15",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-16",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-17",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-18",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-19",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-20",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-21",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-22",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-23",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-24",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-25",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-26",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-27",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-28",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-29",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-30",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-31",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-32",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-33",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-34",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-35",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-36",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-37",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-38",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-39",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-40",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-41",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-42",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-43",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-44",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-45",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-46",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-47",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-48",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-49",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK013-50",
+    "bookId": "BK013",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak E-02"
+  },
+  {
+    "id": "IBK-BK014-01",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-02",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-03",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-04",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-05",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-06",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-07",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-08",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-09",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-10",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-11",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-12",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-13",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-14",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-15",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-16",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-17",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-18",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-19",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-20",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-21",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-22",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-23",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-24",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-25",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-26",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-27",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-28",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-29",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-30",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-31",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-32",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-33",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-34",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-35",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-36",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-37",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-38",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-39",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-40",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-41",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-42",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-43",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-44",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-45",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-46",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-47",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-48",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-49",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK014-50",
+    "bookId": "BK014",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-01"
+  },
+  {
+    "id": "IBK-BK015-01",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-02",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-03",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-04",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-05",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-06",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-07",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-08",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-09",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-10",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-11",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-12",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-13",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-14",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-15",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-16",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-17",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-18",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-19",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-20",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-21",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-22",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-23",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-24",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-25",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-26",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-27",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-28",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-29",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-30",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-31",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-32",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-33",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-34",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-35",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-36",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-37",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-38",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-39",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-40",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-41",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-42",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-43",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-44",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-45",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-46",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-47",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-48",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-49",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK015-50",
+    "bookId": "BK015",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-02"
+  },
+  {
+    "id": "IBK-BK016-01",
+    "bookId": "BK016",
+    "status": "dipinjam",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-02",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-03",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-04",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-05",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-06",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-07",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-08",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-09",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-10",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-11",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-12",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-13",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-14",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-15",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-16",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-17",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-18",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-19",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-20",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-21",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-22",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-23",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-24",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-25",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-26",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-27",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-28",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-29",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-30",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-31",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-32",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-33",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-34",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-35",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-36",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-37",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-38",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-39",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-40",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-41",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-42",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-43",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-44",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-45",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-46",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-47",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-48",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-49",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK016-50",
+    "bookId": "BK016",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak F-03"
+  },
+  {
+    "id": "IBK-BK017-01",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-02",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-03",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-04",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-05",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-06",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-07",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-08",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-09",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-10",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-11",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-12",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-13",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-14",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-15",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-16",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-17",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-18",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-19",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-20",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-21",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-22",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-23",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-24",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-25",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-26",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-27",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-28",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-29",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-30",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-31",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-32",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-33",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-34",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-35",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-36",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-37",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-38",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-39",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-40",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-41",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-42",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-43",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-44",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-45",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-46",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-47",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-48",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-49",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK017-50",
+    "bookId": "BK017",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-01"
+  },
+  {
+    "id": "IBK-BK018-01",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-02",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-03",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-04",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-05",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-06",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-07",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-08",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-09",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-10",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-11",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-12",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-13",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-14",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-15",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-16",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-17",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-18",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-19",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-20",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-21",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-22",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-23",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-24",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-25",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-26",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-27",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-28",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-29",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-30",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-31",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-32",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-33",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-34",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-35",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-36",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-37",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-38",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-39",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-40",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-41",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-42",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-43",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-44",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-45",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-46",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-47",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-48",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-49",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK018-50",
+    "bookId": "BK018",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak G-02"
+  },
+  {
+    "id": "IBK-BK019-01",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-02",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-03",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-04",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-05",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-06",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-07",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-08",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-09",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-10",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-11",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-12",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-13",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-14",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-15",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-16",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-17",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-18",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-19",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-20",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-21",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-22",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-23",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-24",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-25",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-26",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-27",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-28",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-29",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-30",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-31",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-32",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-33",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-34",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-35",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-36",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-37",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-38",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-39",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-40",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-41",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-42",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-43",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-44",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-45",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-46",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-47",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-48",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-49",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK019-50",
+    "bookId": "BK019",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-01"
+  },
+  {
+    "id": "IBK-BK020-01",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-02",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-03",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-04",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-05",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-06",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-07",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-08",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-09",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-10",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-11",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-12",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-13",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-14",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-15",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-16",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-17",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-18",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-19",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-20",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-21",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-22",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-23",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-24",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-25",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-26",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-27",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-28",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-29",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-30",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-31",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-32",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-33",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-34",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-35",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-36",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-37",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-38",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-39",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-40",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-41",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-42",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-43",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-44",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-45",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-46",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-47",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-48",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-49",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK020-50",
+    "bookId": "BK020",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-02"
+  },
+  {
+    "id": "IBK-BK021-01",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-02",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-03",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-04",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-05",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-06",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-07",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-08",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-09",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-10",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-11",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-12",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-13",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-14",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-15",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-16",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-17",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-18",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-19",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-20",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-21",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-22",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-23",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-24",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-25",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-26",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-27",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-28",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-29",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-30",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-31",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-32",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-33",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-34",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-35",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-36",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-37",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-38",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-39",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-40",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-41",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-42",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-43",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-44",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-45",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-46",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-47",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-48",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-49",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK021-50",
+    "bookId": "BK021",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak H-03"
+  },
+  {
+    "id": "IBK-BK022-01",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-02",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-03",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-04",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-05",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-06",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-07",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-08",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-09",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-10",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-11",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-12",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-13",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-14",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-15",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-16",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-17",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-18",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-19",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-20",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-21",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-22",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-23",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-24",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-25",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-26",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-27",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-28",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-29",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-30",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-31",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-32",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-33",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-34",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-35",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-36",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-37",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-38",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-39",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-40",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-41",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-42",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-43",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-44",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-45",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-46",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-47",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-48",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-49",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  },
+  {
+    "id": "IBK-BK022-50",
+    "bookId": "BK022",
+    "status": "tersedia",
+    "condition": "baik",
+    "shelfLocation": "Rak I-01"
+  }
+]

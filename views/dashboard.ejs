@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id"><head><%- include('partials/head') %></head><body>
+<%- include('partials/header') %>
+<section class="hero hero-sipus"><div class="wrap hero-inner">
+  <div class="book-anim" aria-hidden="true"><div class="book-page-left"></div><div class="book-page-right"></div><div class="book-spine"></div><div class="book-turning-page"></div></div>
+  <p class="eyebrow eyebrow-on-dark">Sistem Informasi Perpustakaan</p><h1>Selamat Datang di <em>SIPUS</em><br>SMK Ibu Kartini</h1>
+  <p class="lead lead-on-dark">Kelola koleksi, anggota, peminjaman, pengembalian, dan laporan perpustakaan dalam satu sistem.</p>
+  <div class="hero-actions"><a class="btn btn-primary" href="/katalog">Jelajahi Katalog</a><a class="btn btn-ghost btn-ghost-on-dark" href="/peminjaman">Kelola Sirkulasi →</a></div>
+</div><div class="wrap"><div class="hero-stats">
+  <div class="stat-card"><span class="stat-number"><%= stats.totalTitles %></span><span class="stat-label">Judul Buku</span></div>
+  <div class="stat-card stat-card-light"><span class="stat-number"><%= stats.totalCopies %></span><span class="stat-label">Total Eksemplar</span></div>
+  <div class="stat-card"><span class="stat-number"><%= stats.availableCopies %></span><span class="stat-label">Tersedia</span></div>
+  <div class="stat-card <%= stats.overdueLoans>0?'stat-card-warn':'' %>"><span class="stat-number"><%= stats.overdueLoans %></span><span class="stat-label">Terlambat</span></div>
+</div></div></section>
+
+<section class="section"><div class="wrap"><div class="section-heading-row"><div><p class="eyebrow">Ringkasan Hari Ini</p><h2 class="section-title">Perpustakaan dalam satu pandangan</h2></div><% if(user && ['admin','petugas'].includes(user.role)){ %><a class="btn btn-ghost" href="/admin/laporan">Buka Laporan →</a><% } %></div>
+<div class="dashboard-grid">
+  <a class="dashboard-action" href="/katalog"><span class="action-icon">⌕</span><div><strong>Cari Buku</strong><p>Telusuri koleksi berdasarkan judul, penulis, ISBN, kategori, atau kelas. Peminjaman diproses oleh Admin Perpustakaan.</p></div><span>→</span></a>
+  <a class="dashboard-action" href="/peminjaman"><span class="action-icon">↔</span><div><strong>Kelola Pengembalian</strong><p>Lihat buku aktif, keterlambatan, dan denda yang terhitung otomatis.</p></div><span>→</span></a>
+  <a class="dashboard-action" href="/anggota"><span class="action-icon">♙</span><div><strong>Cek Riwayat Anggota</strong><p>Lihat histori peminjaman setiap siswa atau guru.</p></div><span>→</span></a>
+  <a class="dashboard-action" href="/kategori"><span class="action-icon">▦</span><div><strong>Jelajahi Kategori</strong><p>Kelompokkan buku pelajaran sesuai mapel dan jenjang.</p></div><span>→</span></a>
+</div></div></section>
+
+<div class="thread"></div>
+<section class="section"><div class="wrap two-col">
+<div><div class="section-heading-row"><div><p class="eyebrow">Perlu Perhatian</p><h2 class="section-title">Peminjaman Terlambat</h2></div><a href="/peminjaman?status=terlambat" class="text-link">Lihat semua →</a></div>
+<% if(overdueLoans.length===0){ %><div class="empty-card">Tidak ada peminjaman yang terlambat.</div><% } else { %><div class="overdue-list"><% overdueLoans.forEach(function(l){ %><a href="/anggota/<%= l.member.id %>" class="overdue-item"><div><strong><%= l.member.name %></strong><span><%= l.book.title %></span></div><div class="overdue-meta"><b><%= l.overdueDays %> hari</b><small>Rp <%= l.fine.toLocaleString('id-ID') %></small></div></a><% }); %></div><% } %></div>
+<div><div class="section-heading-row"><div><p class="eyebrow">Paling Sering Dipinjam</p><h2 class="section-title">Buku Populer</h2></div><a href="/katalog" class="text-link">Katalog →</a></div><div class="popular-list"><% popularBooks.forEach(function(b,i){ %><a class="popular-item" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>"><span class="popular-rank"><%= String(i+1).padStart(2,'0') %></span><div><strong><%= b.title %></strong><small><%= b.author %></small></div><b><%= b.loanCount %>×</b></a><% }); %></div></div>
+</div></section>
+
+<section class="section section-tinted"><div class="wrap"><p class="eyebrow">Koleksi</p><h2 class="section-title">Kategori Buku</h2><div class="category-grid"><% categories.forEach(function(c){ %><a class="category-card category-<%= c.accent %>" href="/katalog?kategori=<%= c.slug %>"><span class="category-count"><%= c.bookCount || '' %></span><h3><%= c.name %></h3><p><%= c.description %></p><span class="category-link">Lihat Buku →</span></a><% }); %></div></div></section>
+<%- include('partials/footer') %></body></html>

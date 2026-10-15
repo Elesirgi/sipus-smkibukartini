@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('../partials/head') %>
+</head>
+<body>
+<%- include('../partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap admin-header">
+    <div>
+      <p class="eyebrow">Panel Admin</p>
+      <h1 class="section-title">Kelola Buku</h1>
+    </div>
+    <a class="btn btn-primary" href="/admin/buku/tambah">+ Tambah Buku</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-heading-row"><div><p class="eyebrow">Inventaris</p><p class="result-count"><%= books.length %> buku ditampilkan</p></div><a class="btn btn-ghost" href="/admin/laporan">Laporan</a></div>
+    <form class="search-form admin-search" method="GET" action="/admin/buku"><input class="search-input" type="search" name="q" value="<%= query || '' %>" placeholder="Cari judul, ISBN, kode inventaris, rak..."><button class="btn btn-primary btn-sm">Cari</button></form>
+    <%
+      function sortLink(field, label) {
+        const nextDir = (sort === field && dir === 'asc') ? 'desc' : 'asc';
+        const arrow = sort === field ? (dir === 'asc' ? ' ↑' : ' ↓') : '';
+        return `<a href="/admin/buku?sort=${field}&dir=${nextDir}" class="sort-link${sort === field ? ' sort-active' : ''}">${label}${arrow}</a>`;
+      }
+    %>
+    <div class="loan-table-wrap">
+      <table class="loan-table admin-table">
+        <thead>
+          <tr>
+            <th><%- sortLink('title', 'Judul') %></th>
+            <th>Kode Inventaris</th>
+            <th><%- sortLink('author', 'Penulis') %></th>
+            <th><%- sortLink('category', 'Kategori') %></th>
+            <th><%- sortLink('stock', 'Total / Dipinjam') %></th>
+            <th><%- sortLink('shelfLocation', 'Rak') %></th>
+            <th><%- sortLink('dateAdded', 'Ditambahkan') %></th>
+            <th>Aksi</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% if (!books.length) { %><tr><td colspan="8"><div class="empty-card">Tidak ada buku yang cocok dengan pencarian.</div></td></tr><% } %>
+          <% books.forEach(function(b) { %>
+            <tr>
+              <td><a href="/admin/buku/<%= encodeURIComponent(b.id) %>/edit"><%= b.title %></a><small class="table-sub"><%= b.subject || b.category %> <%= b.grade ? '· Kelas ' + b.grade : '' %></small></td>
+              <td><span class="inventory-code"><%= b.inventoryCode || b.id %></span><span class="barcode-mini" data-code="<%= b.inventoryCode || b.id %>"></span></td>
+              <td><%= b.author %></td>
+              <td><%= b.category %></td>
+              <td><strong><%= b.totalCopies %> / <%= b.borrowedCopies %></strong><small class="table-sub">tersedia <%= b.availableCopies %></small></td>
+              <td><%= b.shelfLocation %></td>
+              <td><%= formatDateID(b.dateAdded) %></td>
+              <td class="admin-actions">
+                <a class="btn-edit" href="/admin/buku/<%= encodeURIComponent(b.id) %>/eksemplar">Eksemplar</a>
+                <a class="btn-edit" href="/admin/buku/<%= encodeURIComponent(b.id) %>/edit">Edit</a>
+                <form action="/admin/buku/<%= encodeURIComponent(b.id) %>/hapus" method="POST" onsubmit="return confirm('Hapus buku &quot;<%= b.title %>&quot;? Tindakan ini tidak bisa dibatalkan.');">
+                  <button type="submit" class="btn-delete">Hapus</button>
+                </form>
+              </td>
+            </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<%- include('../partials/footer') %>
+</body>
+</html>

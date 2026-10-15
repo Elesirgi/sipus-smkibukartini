@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('../partials/head') %>
+</head>
+<body>
+<%- include('../partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap admin-header">
+    <div>
+      <p class="eyebrow">Panel Admin</p>
+      <h1 class="section-title">Kelola Anggota</h1>
+    </div>
+    <div class="page-heading-actions"><a class="btn btn-ghost" href="/admin/laporan">Laporan</a><% if(user?.role==='admin'){ %><a class="btn btn-primary" href="/admin/anggota/tambah">+ Tambah Anggota</a><% } %></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <form class="search-form admin-search" method="GET" action="/admin/anggota"><input class="search-input" type="search" name="q" value="<%= query || '' %>" placeholder="Cari nama, ID, kelas, atau peran..."><button class="btn btn-primary btn-sm">Cari</button></form>
+    <div class="loan-table-wrap">
+      <table class="loan-table admin-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Anggota</th>
+            <th>Peran</th>
+            <th>Kelas</th>
+            <th>Status</th>
+            <th>Anggota Sejak</th><th>Aktivitas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% members.forEach(function(m) { %>
+            <tr>
+              <td class="loan-id"><%= m.id %></td>
+              <td><div class="member-list-person"><div class="member-avatar member-avatar-photo"><% if(m.photo){ %><img src="/member-photo/<%= encodeURIComponent(m.id) %>" alt="Foto <%= m.name %>"><% } else { %><%= m.name.charAt(0) %><% } %></div><div><a href="/anggota/<%= m.id %>"><%= m.name %></a><small class="table-sub"><%= m.email || 'Email belum diisi' %></small></div></div></td>
+              <td><%= m.role %></td>
+              <td><%= m.kelas %></td>
+              <td><span class="status-dot <%= m.status==='nonaktif'?'is-inactive':'is-active' %>"><%= m.status||'aktif' %></span></td>
+              <td><%= formatDateID(m.memberSince) %></td><td><a class="btn-edit" href="/anggota/<%= m.id %>">Riwayat</a> <a class="btn-edit" href="/admin/anggota/<%= m.id %>/edit">Edit</a></td>
+            </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<%- include('../partials/footer') %>
+</body>
+</html>

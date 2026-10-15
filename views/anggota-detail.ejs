@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap member-detail-header">
+    <div class="member-avatar member-avatar-lg member-avatar-photo"><% if(member.photo){ %><img src="/member-photo/<%= encodeURIComponent(member.id) %>" alt="Foto <%= member.name %>"><% } else { %><%= member.name.charAt(0) %><% } %></div>
+    <div>
+      <p class="eyebrow"><%= member.role %> · <%= member.kelas %></p>
+      <h1 class="section-title" style="margin-bottom:6px;"><%= member.name %></h1>
+      <p class="member-since">Anggota sejak <%= formatDateID(member.memberSince) %> · ID <%= member.id %></p>
+    </div>
+  </div>
+</section>
+
+<div class="thread"></div>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">Riwayat</p>
+    <h2 class="section-title">Riwayat Peminjaman</h2>
+    <div class="member-loan-summary"><span><strong><%= loans.filter(l=>l.status!=='dikembalikan').length %></strong> aktif</span><span class="danger"><strong><%= loans.filter(l=>l.status==='terlambat').length %></strong> terlambat</span><span><strong>Rp <%= loans.reduce((s,l)=>s+l.fine,0).toLocaleString('id-ID') %></strong> denda terhitung</span></div>
+    <% if (loans.length === 0) { %>
+      <p class="empty-note">Anggota ini belum pernah meminjam buku.</p>
+    <% } else { %>
+      <div class="loan-table-wrap">
+        <table class="loan-table">
+          <thead>
+            <tr>
+              <th>Buku</th>
+              <th>Tanggal Pinjam</th>
+              <th>Jatuh Tempo</th>
+              <th>Tanggal Kembali</th>
+              <th>Status</th><th>Denda</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% loans.forEach(function(l) { %>
+              <tr>
+                <td><a href="/katalog/<%= encodeURIComponent(l.book.slug || l.book.id) %>"><%= l.book.title %></a></td>
+                <td><%= formatDateID(l.borrowDate) %></td>
+                <td><%= formatDateID(l.dueDate) %></td>
+                <td><%= l.returnDate ? formatDateID(l.returnDate) : '—' %></td>
+                <td><span class="status-badge status-<%= l.status %>"><%= l.status %></span></td><td>Rp <%= l.fine.toLocaleString('id-ID') %></td>
+              </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </div>
+    <% } %>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

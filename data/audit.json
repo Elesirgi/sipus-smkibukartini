@@ -1,0 +1,138 @@
+[
+  {
+    "id": "LOG1789973280274",
+    "at": "2026-09-21T06:48:00.274Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Tambah Buku",
+    "detail": "lolo"
+  },
+  {
+    "id": "LOG1789972964389",
+    "at": "2026-09-21T06:42:44.389Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Tambah Buku",
+    "detail": "Joko"
+  },
+  {
+    "id": "LOG1789972492812",
+    "at": "2026-09-21T06:34:52.812Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK005"
+  },
+  {
+    "id": "LOG1789972040944",
+    "at": "2026-09-21T06:27:20.945Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789972009821",
+    "at": "2026-09-21T06:26:49.821Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789972005521",
+    "at": "2026-09-21T06:26:45.521Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789971144127",
+    "at": "2026-09-21T06:12:24.127Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK003"
+  },
+  {
+    "id": "LOG1789971115974",
+    "at": "2026-09-21T06:11:55.974Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789970668847",
+    "at": "2026-09-21T06:04:28.847Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789710933813",
+    "at": "2026-09-18T05:55:33.813Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789710917107",
+    "at": "2026-09-18T05:55:17.107Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK003"
+  },
+  {
+    "id": "LOG1789710897124",
+    "at": "2026-09-18T05:54:57.124Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK017"
+  },
+  {
+    "id": "LOG1789710884725",
+    "at": "2026-09-18T05:54:44.725Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK001"
+  },
+  {
+    "id": "LOG1789710778395",
+    "at": "2026-09-18T05:52:58.395Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK005"
+  },
+  {
+    "id": "LOG1789701927708",
+    "at": "2026-09-18T03:25:27.708Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK003"
+  },
+  {
+    "id": "LOG1789701742840",
+    "at": "2026-09-18T03:22:22.840Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Edit Buku",
+    "detail": "BK002"
+  },
+  {
+    "id": "LOG1789609304008",
+    "at": "2026-09-17T01:41:44.008Z",
+    "username": "elesirgi",
+    "role": "admin",
+    "action": "Tambah Kategori",
+    "detail": "Buku Khayalan"
+  }
+]

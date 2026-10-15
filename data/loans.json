@@ -1,0 +1,137 @@
+[
+  {
+    "id": "PJ001",
+    "bookId": "BK001",
+    "memberId": "AG001",
+    "borrowDate": "2026-07-20",
+    "dueDate": "2026-08-03",
+    "returnDate": null,
+    "copyId": "IBK-BK001-01"
+  },
+  {
+    "id": "PJ002",
+    "bookId": "BK003",
+    "memberId": "AG002",
+    "borrowDate": "2026-07-15",
+    "dueDate": "2026-07-29",
+    "returnDate": null,
+    "copyId": "IBK-BK003-01"
+  },
+  {
+    "id": "PJ003",
+    "bookId": "BK006",
+    "memberId": "AG005",
+    "borrowDate": "2026-07-22",
+    "dueDate": "2026-08-05",
+    "returnDate": null,
+    "copyId": "IBK-BK006-01"
+  },
+  {
+    "id": "PJ004",
+    "bookId": "BK012",
+    "memberId": "AG006",
+    "borrowDate": "2026-07-10",
+    "dueDate": "2026-07-24",
+    "returnDate": null,
+    "copyId": "IBK-BK012-01"
+  },
+  {
+    "id": "PJ005",
+    "bookId": "BK004",
+    "memberId": "AG003",
+    "borrowDate": "2026-07-25",
+    "dueDate": "2026-08-08",
+    "returnDate": null,
+    "copyId": "IBK-BK004-01"
+  },
+  {
+    "id": "PJ006",
+    "bookId": "BK004",
+    "memberId": "AG007",
+    "borrowDate": "2026-07-28",
+    "dueDate": "2026-08-11",
+    "returnDate": null,
+    "copyId": "IBK-BK004-02"
+  },
+  {
+    "id": "PJ007",
+    "bookId": "BK016",
+    "memberId": "AG004",
+    "borrowDate": "2026-07-18",
+    "dueDate": "2026-08-01",
+    "returnDate": null,
+    "copyId": "IBK-BK016-01"
+  },
+  {
+    "id": "PJ008",
+    "bookId": "BK009",
+    "memberId": "AG002",
+    "borrowDate": "2026-06-20",
+    "dueDate": "2026-07-04",
+    "returnDate": "2026-07-02",
+    "copyId": "IBK-BK009-01"
+  },
+  {
+    "id": "PJ009",
+    "bookId": "BK007",
+    "memberId": "AG004",
+    "borrowDate": "2026-06-15",
+    "dueDate": "2026-06-29",
+    "returnDate": "2026-06-27",
+    "copyId": "IBK-BK007-01"
+  },
+  {
+    "id": "PJ010",
+    "bookId": "BK008",
+    "memberId": "AG001",
+    "borrowDate": "2026-06-10",
+    "dueDate": "2026-06-24",
+    "returnDate": "2026-06-22",
+    "copyId": "IBK-BK008-01"
+  },
+  {
+    "id": "PJ011",
+    "bookId": "BK002",
+    "memberId": "AG009",
+    "borrowDate": "2026-06-05",
+    "dueDate": "2026-06-19",
+    "returnDate": "2026-06-18",
+    "copyId": "IBK-BK002-01"
+  },
+  {
+    "id": "PJ012",
+    "bookId": "BK010",
+    "memberId": "AG010",
+    "borrowDate": "2026-05-28",
+    "dueDate": "2026-06-11",
+    "returnDate": "2026-06-10",
+    "copyId": "IBK-BK010-01"
+  },
+  {
+    "id": "PJ013",
+    "bookId": "BK011",
+    "memberId": "AG008",
+    "borrowDate": "2026-05-20",
+    "dueDate": "2026-06-03",
+    "returnDate": "2026-06-01",
+    "copyId": "IBK-BK011-01"
+  },
+  {
+    "id": "PJ014",
+    "bookId": "BK015",
+    "memberId": "AG005",
+    "borrowDate": "2026-07-01",
+    "dueDate": "2026-07-15",
+    "returnDate": "2026-07-14",
+    "copyId": "IBK-BK015-01"
+  },
+  {
+    "id": "PJ015",
+    "bookId": "BK009",
+    "memberId": "AG006",
+    "borrowDate": "2026-07-05",
+    "dueDate": "2026-07-19",
+    "returnDate": "2026-07-19",
+    "copyId": "IBK-BK009-01"
+  }
+]

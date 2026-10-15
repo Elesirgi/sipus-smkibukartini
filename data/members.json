@@ -1,0 +1,112 @@
+[
+  {
+    "id": "AG001",
+    "name": "Ganesya Aulia Azzahra",
+    "role": "Siswa",
+    "kelas": "XI Busana 1",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG002",
+    "name": "Muhammad Syahron Maulana",
+    "role": "Siswa",
+    "kelas": "XI PPLG 2",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG003",
+    "name": "Zahra Zizi Sandrica",
+    "role": "Siswa",
+    "kelas": "X Busana 1",
+    "memberSince": "2025-07-14",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG004",
+    "name": "Fidela Joe Nadhira",
+    "role": "Siswa",
+    "kelas": "X Kuliner 2",
+    "memberSince": "2025-07-14",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG005",
+    "name": "Rahma Catur Swatiningtiyas",
+    "role": "Siswa",
+    "kelas": "XI DKV 1",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG006",
+    "name": "Barayudha Arkano",
+    "role": "Siswa",
+    "kelas": "XI PPLG 1",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG007",
+    "name": "Nisya Oktalafiani",
+    "role": "Siswa",
+    "kelas": "XI DKV 2",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG008",
+    "name": "Muhdlor, S.Pd.",
+    "role": "Guru",
+    "kelas": "Kepala Sekolah",
+    "memberSince": "2019-01-10",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG009",
+    "name": "Kevina Thirza Valora",
+    "role": "Siswa",
+    "kelas": "XI Busana 1",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "AG010",
+    "name": "Galuh Alia Ziadatirrohmah",
+    "role": "Siswa",
+    "kelas": "XI DKV 2",
+    "memberSince": "2024-07-15",
+    "status": "aktif",
+    "nisn": "",
+    "email": "",
+    "phone": ""
+  }
+]

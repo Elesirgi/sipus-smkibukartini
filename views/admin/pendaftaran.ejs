@@ -1,0 +1,15 @@
+<!DOCTYPE html><html lang="id"><head><%- include('../partials/head') %></head><body><%- include('../partials/header') %>
+<section class="section page-hero"><div class="wrap"><p class="eyebrow">Verifikasi Anggota</p><h1 class="section-title">Pendaftaran Member</h1><p>Periksa identitas sekolah sebelum akun Murid/Guru diaktifkan.</p></div></section>
+<section class="section"><div class="wrap">
+<% if(error){ %><div class="form-error"><%= error %></div><% } %>
+<div class="report-filters"><a class="btn <%= status==='pending'?'btn-primary':'btn-ghost' %>" href="/admin/pendaftaran?status=pending">Menunggu (<%= pendingCount %>)</a><a class="btn <%= status==='approved'?'btn-primary':'btn-ghost' %>" href="/admin/pendaftaran?status=approved">Disetujui</a><a class="btn <%= status==='rejected'?'btn-primary':'btn-ghost' %>" href="/admin/pendaftaran?status=rejected">Ditolak</a><a class="btn <%= status==='all'?'btn-primary':'btn-ghost' %>" href="/admin/pendaftaran?status=all">Semua</a></div>
+<div class="registration-list">
+<% if(requests.length===0){ %><div class="empty-card">Tidak ada pendaftaran pada filter ini.</div><% } %>
+<% requests.forEach(r=>{ %>
+<article class="registration-card">
+  <div class="registration-main"><div class="member-avatar"><%= r.name.charAt(0) %></div><div><h3><%= r.name %></h3><p><%= r.role %> · <%= r.kelas %> · <%= r.identifierLabel %>: <strong><%= r.schoolId %></strong></p><p class="muted">Username: @<%= r.username %> · <%= r.email || 'Email belum diisi' %></p></div></div>
+  <div class="registration-status status-<%= r.status %>"><%= r.status==='pending'?'Menunggu':r.status==='approved'?'Disetujui':'Ditolak' %></div>
+  <% if(r.status==='pending'){ %><div class="registration-actions"><form action="/admin/pendaftaran/<%= r.id %>/setujui" method="POST"><button class="btn btn-primary" type="submit">Setujui & Aktifkan</button></form><form action="/admin/pendaftaran/<%= r.id %>/tolak" method="POST" class="inline-form"><input name="reason" placeholder="Alasan penolakan (opsional)"><button class="btn btn-ghost" type="submit">Tolak</button></form></div><% } else if(r.status==='rejected' && r.rejectionReason){ %><p class="muted registration-reason">Alasan: <%= r.rejectionReason %></p><% } %>
+</article>
+<% }) %>
+</div></div></section><%- include('../partials/footer') %></body></html>

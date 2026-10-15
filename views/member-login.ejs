@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head><%- include('partials/head') %></head>
+<body>
+<%- include('partials/header') %>
+<main class="auth-page-main">
+  <section class="auth-book auth-book-modern member-login-card standalone-auth">
+    <div class="auth-page auth-page-login">
+      <div class="auth-badge">AKUN ANGGOTA</div>
+      <h1 class="auth-title">Login</h1>
+      <p class="auth-lead">Gunakan username dan password yang diberikan Admin Perpustakaan.</p>
+      <% if (loginError) { %><div class="form-error"><%= loginError %></div><% } %>
+      <form class="auth-form" action="/login" method="POST">
+        <input type="hidden" name="next" value="<%= nextUrl || '/dashboard' %>">
+        <label class="form-field form-field-wide"><span>Username</span><input type="text" name="username" required autocomplete="username" value="<%= formValues?.username || '' %>" placeholder="Masukkan username"></label>
+        <label class="form-field form-field-wide password-field"><span>Password</span><div class="password-input-wrap"><input type="password" name="password" required autocomplete="current-password" placeholder="Masukkan password"><button type="button" class="password-toggle" aria-label="Tampilkan password">Lihat</button></div></label>
+        <button type="submit" class="btn btn-primary auth-submit">Login</button>
+      </form>
+      <div class="member-no-signup">Akun anggota dibuat langsung oleh Admin Perpustakaan.</div>
+    </div>
+  </section>
+</main>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  document.querySelectorAll('.password-toggle').forEach(btn=>btn.addEventListener('click',()=>{
+    const field=btn.closest('.password-input-wrap')?.querySelector('input');
+    if(!field)return;
+    const show=field.type==='password';
+    field.type=show?'text':'password';
+    btn.textContent=show?'Sembunyikan':'Lihat';
+    btn.setAttribute('aria-pressed',String(show));
+  }));
+});
+</script>
+<%- include('partials/footer') %>
+</body>
+</html>

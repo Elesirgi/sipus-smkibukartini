@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <%- include('partials/head') %>
+</head>
+<body class="admin-login-page">
+  <main class="admin-login-shell">
+    <section class="admin-login-card">
+      <div class="admin-login-brand">
+        <span class="brand-mark">▮</span>
+        <div><strong>SIPUS</strong><small>SMK IBU KARTINI SEMARANG</small></div>
+      </div>
+      <p class="eyebrow">RUANG KHUSUS PETUGAS</p>
+      <h1>Login Admin</h1>
+      <p class="admin-login-lead">Masuk ke panel pengelolaan perpustakaan. Halaman ini khusus Admin dan Petugas.</p>
+      <% if (loginError) { %><div class="form-error"><%= loginError %></div><% } %>
+      <form class="admin-form" action="/admin/login" method="POST">
+        <label class="form-field form-field-wide"><span>Username</span><input type="text" name="username" required autocomplete="username" value="<%= username || '' %>"></label>
+        <label class="form-field form-field-wide password-field"><span>Password</span><div class="password-input-wrap"><input type="password" name="password" required autocomplete="current-password"><button type="button" class="password-toggle" aria-label="Tampilkan password">Lihat</button></div></label>
+        <input type="hidden" name="next" value="<%= nextUrl || '/admin' %>">
+        <button class="btn btn-primary admin-login-submit" type="submit">Masuk ke Panel Admin</button>
+      </form>
+      <a class="admin-back-link" href="/">← Kembali ke halaman utama</a>
+    </section>
+  </main>
+  <script src="/js/script.js"></script>
+</body>
+</html>

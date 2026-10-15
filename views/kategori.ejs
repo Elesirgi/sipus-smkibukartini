@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap">
+    <p class="eyebrow">Klasifikasi Koleksi</p>
+    <h1 class="section-title">Kategori Buku</h1>
+    <p style="max-width:640px; font-size:1.02rem;">Koleksi perpustakaan dikelompokkan ke dalam empat kategori utama untuk memudahkan pencarian dan penataan rak.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="category-grid">
+      <% categories.forEach(function(c) { %>
+        <a class="category-card category-<%= c.accent %>" href="/katalog?kategori=<%= c.slug %>">
+          <h3><%= c.name %></h3>
+          <p><%= c.description %></p>
+          <span class="category-count"><%= c.bookCount %> judul buku</span>
+          <span class="category-link">Lihat Buku →</span>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

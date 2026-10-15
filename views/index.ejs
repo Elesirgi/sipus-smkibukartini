@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="hero hero-sipus">
+  <div class="wrap hero-inner">
+    <div class="book-anim" aria-hidden="true">
+      <div class="book-anim-base"></div>
+      <div class="book-anim-cover"></div>
+    </div>
+    <p class="eyebrow eyebrow-on-dark">Sistem Informasi Perpustakaan</p>
+    <h1>Selamat Datang di <em>SIPUS</em><br>SMK Ibu Kartini</h1>
+    <p class="lead lead-on-dark">Kelola dan telusuri koleksi buku, data anggota, serta status peminjaman perpustakaan sekolah — semua dalam satu sistem yang ringkas dan mudah digunakan.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="/katalog">Jelajahi Katalog</a>
+      <a class="btn btn-ghost btn-ghost-on-dark" href="/peminjaman">Lihat Peminjaman →</a>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="hero-stats">
+      <div class="stat-card">
+        <span class="stat-number"><%= stats.totalTitles %></span>
+        <span class="stat-label">Judul Buku</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number"><%= stats.availableCopies %></span>
+        <span class="stat-label">Eksemplar Tersedia</span>
+      </div>
+      <div class="stat-card stat-card-light">
+        <span class="stat-number"><%= stats.totalMembers %></span>
+        <span class="stat-label">Anggota Terdaftar</span>
+      </div>
+      <div class="stat-card <%= stats.overdueLoans > 0 ? 'stat-card-warn' : '' %>">
+        <span class="stat-number"><%= stats.overdueLoans %></span>
+        <span class="stat-label">Peminjaman Terlambat</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section home-collection-preview">
+  <div class="wrap">
+    <div class="section-heading-row home-collection-heading">
+      <div>
+        <p class="eyebrow">Koleksi Terbaru</p>
+        <h2 class="section-title">Katalog Buku</h2>
+        <p class="section-side-note">Jelajahi buku pelajaran yang tersedia di perpustakaan SMK Ibu Kartini.</p>
+      </div>
+      <a class="btn btn-primary" href="/katalog">Lihat Semua Buku</a>
+    </div>
+    <div class="home-book-grid">
+      <% books.slice(0,8).forEach(function(b) { %>
+        <a class="book-card" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>">
+          <div class="book-cover book-cover-<%= b.category %>">
+            <img class="book-cover-image" src="/book-cover/<%= encodeURIComponent(b.id) %>" alt="Cover <%= b.title %>" loading="eager" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.classList.add('is-error')">
+            <div class="book-cover-fallback"><span class="book-cover-mini-label">SIPUS</span><span class="book-cover-title"><%= b.title %></span></div>
+          </div>
+          <div class="book-card-body">
+            <span class="book-card-category"><%= b.subject || b.category %> · Kelas <%= b.grade || '-' %></span>
+            <h3><%= b.title %></h3>
+            <p class="book-card-author"><%= b.author %></p>
+            <span class="stock-pill <%= b.availableCopies===0 ? 'stock-empty' : 'stock-ok' %>"><%= b.totalCopies %> / <%= Math.max(0, Number(b.totalCopies||0)-Number(b.availableCopies||0)) %></span>
+          </div>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<section class="section categories-preview">
+  <div class="wrap">
+    <p class="eyebrow">Jelajahi Koleksi</p>
+    <h2 class="section-title">Kategori Buku</h2>
+    <div class="category-grid">
+      <% categories.forEach(function(c) { %>
+        <a class="category-card category-<%= c.accent %>" href="/katalog?kategori=<%= c.slug %>">
+          <h3><%= c.name %></h3>
+          <p><%= c.description %></p>
+          <span class="category-link">Lihat Buku →</span>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<div class="thread"></div>
+
+<section class="section recent-activity">
+  <div class="wrap two-col">
+    <div>
+      <p class="eyebrow">Aktivitas Terbaru</p>
+      <h2 class="section-title">Peminjaman Terkini</h2>
+      <div class="loan-table-wrap">
+        <table class="loan-table">
+          <thead>
+            <tr>
+              <th>Buku</th>
+              <th>Peminjam</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% recentLoans.forEach(function(l) { %>
+              <tr>
+                <td>
+                  <a href="/katalog/<%= encodeURIComponent(l.book.slug || l.book.id) %>"><%= l.book.title %></a>
+                </td>
+                <td><a href="/anggota/<%= l.member.id %>"><%= l.member.name %></a></td>
+                <td><span class="status-badge status-<%= l.status %>"><%= l.status %></span></td>
+              </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </div>
+      <a class="btn btn-ghost btn-sm" href="/peminjaman" style="margin-top:18px;">Lihat Semua Peminjaman →</a>
+    </div>
+
+    <div>
+      <p class="eyebrow">Perlu Perhatian</p>
+      <h2 class="section-title">Stok Kosong</h2>
+      <% if (lowStockBooks.length === 0) { %>
+        <p class="empty-note">Semua judul buku masih memiliki eksemplar tersedia. 🎉</p>
+      <% } else { %>
+        <div class="mini-book-list">
+          <% lowStockBooks.forEach(function(b) { %>
+            <a class="mini-book-item" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>">
+              <span class="mini-book-title"><%= b.title %></span>
+              <span class="mini-book-author"><%= b.author %></span>
+              <span class="stock-pill stock-empty">0 / <%= b.totalCopies %> tersedia</span>
+            </a>
+          <% }); %>
+        </div>
+      <% } %>
+    </div>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

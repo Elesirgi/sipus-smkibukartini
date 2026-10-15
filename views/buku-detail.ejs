@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section book-detail">
+  <div class="wrap book-detail-wrap">
+    <div class="book-detail-cover book-cover-<%= book.category %>">
+      <img class="book-cover-image" src="/book-cover/<%= encodeURIComponent(book.id) %>" alt="Cover <%= book.title %>" loading="lazy">
+      <div class="book-cover-fallback"><span class="book-cover-title"><%= book.title %></span></div>
+    </div>
+
+    <div class="book-detail-info">
+      <p class="eyebrow"><%= category ? category.name : book.category %></p>
+      <h1 class="section-title book-detail-title"><%= book.title %></h1>
+      <p class="book-detail-author">oleh <%= book.author %></p>
+
+      <p class="book-detail-desc"><%= book.description %></p>
+
+      <div class="book-detail-tools">
+        <div class="inventory-label" id="inventoryLabel">
+          <div class="inventory-school">SMK IBU KARTINI SEMARANG</div>
+          <div class="inventory-title"><%= book.title %></div>
+          <div class="barcode" data-code="<%= book.inventoryCode || book.id %>" aria-label="Barcode <%= book.inventoryCode || book.id %>"></div>
+          <div class="barcode-code"><%= book.inventoryCode || book.id %></div>
+        </div>
+        <button type="button" class="btn btn-ghost btn-sm" onclick="document.body.classList.add('print-label'); window.print()">Cetak Label</button>
+      </div>
+
+      <div class="book-meta-grid">
+        <div class="book-meta-item">
+          <span class="book-meta-label">Penerbit</span>
+          <span class="book-meta-value"><%= book.publisher %></span>
+        </div>
+        <div class="book-meta-item">
+          <span class="book-meta-label">Tahun Terbit</span>
+          <span class="book-meta-value"><%= book.year %></span>
+        </div>
+        <div class="book-meta-item">
+          <span class="book-meta-label">ISBN</span>
+          <span class="book-meta-value"><%= book.isbn %></span>
+        </div>
+        <div class="book-meta-item">
+          <span class="book-meta-label">Kode Inventaris</span>
+          <span class="book-meta-value"><%= book.inventoryCode || book.id %></span>
+        </div>
+        <div class="book-meta-item">
+          <span class="book-meta-label">Lokasi Rak</span>
+          <span class="book-meta-value"><%= book.shelfLocation %></span>
+        </div>
+      </div>
+
+      <div class="stock-box <%= book.availableCopies === 0 ? 'stock-box-empty' : '' %>">
+        <span class="stock-box-number"><%= book.totalCopies %> / <%= book.borrowedCopies || 0 %></span>
+        <span class="stock-box-label">eksemplar total / dipinjam</span>
+      </div>
+
+      <p class="info-callout">Peminjaman dan pengembalian buku diproses oleh Admin Perpustakaan melalui halaman Sirkulasi.</p>
+    </div>
+  </div>
+</section>
+
+<div class="thread"></div>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">Riwayat</p>
+    <h2 class="section-title">Riwayat Peminjaman Buku Ini</h2>
+    <% if (loanHistory.length === 0) { %>
+      <p class="empty-note">Buku ini belum pernah dipinjam.</p>
+    <% } else { %>
+      <div class="loan-table-wrap">
+        <table class="loan-table">
+          <thead>
+            <tr>
+              <th>Peminjam</th>
+              <th>Tanggal Pinjam</th>
+              <th>Jatuh Tempo</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% loanHistory.forEach(function(l) { %>
+              <tr>
+                <td><% if (l.member && l.member.id) { %><a href="/anggota/<%= encodeURIComponent(l.member.id) %>"><%= l.member.name %></a><% } else { %><span>Anggota tidak ditemukan</span><% } %></td>
+                <td><%= formatDateID(l.borrowDate) %></td>
+                <td><%= formatDateID(l.dueDate) %></td>
+                <td><span class="status-badge status-<%= l.status %>"><%= l.status %></span></td>
+              </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </div>
+    <% } %>
+  </div>
+</section>
+
+<% if (relatedBooks.length) { %>
+<div class="thread"></div>
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">Rekomendasi</p>
+    <h2 class="section-title">Buku Terkait Lainnya</h2>
+    <div class="book-grid">
+      <% relatedBooks.forEach(function(b) { %>
+        <a class="book-card" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>">
+          <div class="book-cover book-cover-<%= b.category %>">
+            <img class="book-cover-image" src="/book-cover/<%= encodeURIComponent(b.id) %>" alt="Cover <%= b.title %>" loading="lazy">
+            <div class="book-cover-fallback"><span class="book-cover-title"><%= b.title %></span></div>
+          </div>
+          <div class="book-card-body">
+            <span class="book-card-category"><%= b.category %></span>
+            <h3><%= b.title %></h3>
+            <p class="book-card-author"><%= b.author %></p>
+            <span class="stock-pill <%= b.availableCopies === 0 ? 'stock-empty' : 'stock-ok' %>">
+              <%= b.totalCopies %> / <%= b.borrowedCopies || Math.max(0, Number(b.totalCopies || 0) - Number(b.availableCopies || 0)) %>
+            </span>
+          </div>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+<% } %>
+
+<%- include('partials/footer') %>
+</body>
+</html>

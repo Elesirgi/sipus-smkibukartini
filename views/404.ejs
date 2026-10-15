@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section page-hero" style="text-align:center;">
+  <div class="wrap">
+    <p class="eyebrow">404</p>
+    <h1 class="section-title" style="margin:0 auto;">Halaman tidak ditemukan</h1>
+    <p><%= (typeof message !== 'undefined' && message) ? message : 'Halaman yang kamu cari mungkin sudah dipindahkan atau tidak tersedia.' %></p>
+    <a class="btn btn-primary" href="/">Kembali ke Beranda</a>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

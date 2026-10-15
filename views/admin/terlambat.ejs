@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head><%- include('../partials/head') %></head>
+<body class="admin-page">
+<%- include('../partials/header') %>
+<main>
+<section class="section page-hero"><div class="wrap admin-page-title"><div><p class="eyebrow">Sirkulasi</p><h1 class="section-title">Peminjaman Terlambat</h1><p>Daftar transaksi yang sudah melewati tanggal jatuh tempo.</p></div><div class="page-heading-actions"><a class="btn btn-ghost" href="/admin/sirkulasi">Sirkulasi</a><a class="btn btn-primary" href="/admin">Panel Admin</a></div></div></section>
+<section class="section"><div class="wrap">
+<div class="summary-strip summary-strip-admin"><div class="danger"><strong><%= loans.length %></strong><span>transaksi terlambat</span></div><div class="danger"><strong>Rp <%= Number(totalFine||0).toLocaleString('id-ID') %></strong><span>total denda terhitung</span></div></div>
+<% if(!loans.length){ %><div class="empty-card">Tidak ada peminjaman yang terlambat.</div><% } else { %>
+<div class="loan-table-wrap"><table class="loan-table admin-table"><thead><tr><th>ID</th><th>Peminjam</th><th>Buku</th><th>Jatuh Tempo</th><th>Telat</th><th>Denda</th><th>Aksi</th></tr></thead><tbody>
+<% loans.forEach(l=>{ %><tr class="row-overdue"><td class="loan-id"><%= l.id %></td><td><strong><%= l.member?.name||'-' %></strong><small class="table-sub"><%= l.member?.kelas||'' %></small></td><td><strong><%= l.book?.title||'-' %></strong><small class="table-sub"><%= l.copy?.id||'-' %></small></td><td><%= formatDateID(l.dueDate) %></td><td><strong><%= l.overdueDays %> hari</strong></td><td>Rp <%= Number(l.fine||0).toLocaleString('id-ID') %></td><td><form action="/admin/peminjaman/<%= encodeURIComponent(l.id) %>/kembali" method="POST" class="inline-form"><select name="condition"><option value="baik">Baik</option><option value="rusak ringan">Rusak Ringan</option><option value="rusak berat">Rusak Berat</option><option value="hilang">Hilang</option></select><button type="submit" class="btn-return">Kembalikan</button></form></td></tr><% }) %>
+</tbody></table></div>
+<% } %>
+</div></section></main>
+<%- include('../partials/footer') %></body></html>

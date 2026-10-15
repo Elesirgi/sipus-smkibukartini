@@ -1,0 +1,4 @@
+{
+  "ignore": ["data/*", "node_modules/*"],
+  "delay": 500
+}

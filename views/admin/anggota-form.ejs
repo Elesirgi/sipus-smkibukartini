@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="id"><head><%- include('../partials/head') %></head><body class="admin-page"><%- include('../partials/header') %>
+<main><section class="section page-hero"><div class="wrap admin-page-title"><div><p class="eyebrow">Panel Admin</p><h1 class="section-title"><%= member?'Edit Anggota':'Tambah Anggota Baru' %></h1><p>Hanya Admin yang dapat menambahkan anggota.</p></div><a class="btn btn-ghost" href="/admin/anggota">← Kembali</a></div></section>
+<section class="section"><div class="wrap admin-form-wrap"><form class="admin-form" action="<%= formAction || '/admin/anggota/tambah' %>" method="POST" enctype="multipart/form-data">
+<% if(error){ %><div class="form-error"><%= error %></div><% } %>
+<div class="admin-form-section-title">Data Anggota</div><div class="form-grid">
+<label class="form-field"><span>Nama Lengkap</span><input name="name" required value="<%= member?.name||'' %>"></label>
+<label class="form-field"><span>Peran</span><select name="role"><option value="Siswa" <%= !member||member.role==='Siswa'?'selected':'' %>>Murid</option><option value="Guru" <%= member?.role==='Guru'?'selected':'' %>>Guru</option><option value="Staf" <%= member?.role==='Staf'?'selected':'' %>>Staf</option></select></label>
+<label class="form-field"><span>Kelas / Bagian</span><input name="kelas" value="<%= member?.kelas||'' %>"></label>
+<label class="form-field"><span>NISN / Identitas</span><input name="nisn" value="<%= member?.nisn||'' %>"></label>
+<label class="form-field"><span>Email</span><input type="email" name="email" value="<%= member?.email||'' %>"></label>
+<label class="form-field"><span>No. Telepon</span><input name="phone" value="<%= member?.phone||'' %>"></label>
+<label class="form-field"><span>Status</span><select name="status"><option value="aktif" <%= !member||member.status==='aktif'?'selected':'' %>>Aktif</option><option value="nonaktif" <%= member?.status==='nonaktif'?'selected':'' %>>Nonaktif</option></select></label>
+</div>
+<div class="admin-form-section-title">Foto Anggota</div><div class="upload-box"><label class="form-field form-field-wide"><span>Upload Foto</span><input type="file" name="photoFile" accept="image/jpeg,image/png,image/webp" <%= member?'':'required' %>></label><p class="form-note">Foto wajib untuk anggota baru. Format JPG, PNG, WEBP. Maksimal 3 MB.</p><% if(member?.photo){ %><div class="current-upload"><img src="/member-photo/<%= encodeURIComponent(member.id) %>" alt="Foto <%= member.name %>"><span>Foto saat ini. Upload file baru untuk menggantinya.</span></div><% } %></div>
+<p class="form-note">Anggota hanya ditambahkan sebagai data perpustakaan. Akun login tidak dibuat dari form ini.</p>
+<div class="form-actions"><a class="btn btn-ghost" href="/admin/anggota">Batal</a><button class="btn btn-primary" type="submit"><%= member?'Simpan Perubahan':'Tambah Anggota' %></button></div>
+</form></div></section></main><script>document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.password-toggle').forEach(b=>b.addEventListener('click',()=>{const i=b.parentElement?.querySelector('input');if(!i)return;const s=i.type==='password';i.type=s?'text':'password';b.textContent=s?'Sembunyikan':'Lihat';b.setAttribute('aria-pressed',String(s));})));</script><%- include('../partials/footer') %></body></html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<%- include('partials/header') %>
+
+<section class="section page-hero">
+  <div class="wrap">
+    <p class="eyebrow">Koleksi Perpustakaan</p>
+    <h1 class="section-title">Katalog Buku</h1>
+
+    <% if (typeof errorMsg !== 'undefined' && errorMsg) { %>
+      <div class="form-error"><%= errorMsg %></div>
+    <% } %>
+
+    <form class="search-form" method="GET" action="/katalog">
+      <input
+        type="text"
+        name="q"
+        value="<%= query %>"
+        placeholder="Cari judul, penulis, atau ISBN..."
+        class="search-input"
+      >
+      <% if (activeCategory) { %>
+        <input type="hidden" name="kategori" value="<%= activeCategory %>">
+      <% } %>
+      <button type="submit" class="btn btn-primary btn-sm">Cari</button>
+    </form>
+
+    <div class="category-filter">
+      <a href="/katalog<%= query ? '?q=' + encodeURIComponent(query) : '' %>" class="<%= !activeCategory ? 'active' : '' %>">Semua</a>
+      <% categories.forEach(function(c) { %>
+        <a
+          href="/katalog?kategori=<%= c.slug %><%= query ? '&q=' + encodeURIComponent(query) : '' %>"
+          class="<%= activeCategory === c.slug ? 'active' : '' %>"
+        ><%= c.name %></a>
+      <% }); %>
+    </div>
+
+    <p class="result-count"><%= totalResults %> buku ditemukan</p>
+  </div>
+</section>
+
+<section class="section book-grid-section">
+  <div class="wrap">
+    <% if (books.length === 0) { %>
+      <p class="empty-note">Tidak ada buku yang cocok dengan pencarian kamu.</p>
+    <% } else { %>
+      <div class="book-grid">
+        <% books.forEach(function(b) { %>
+          <a class="book-card" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>">
+            <div class="book-cover book-cover-<%= b.category %>">
+              <img class="book-cover-image" src="/book-cover/<%= encodeURIComponent(b.id) %>" alt="Cover <%= b.title %>" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')" onerror="this.classList.add('is-error')">
+              <div class="book-cover-fallback">
+                <span class="book-cover-title"><%= b.title %></span>
+              </div>
+            </div>
+            <div class="book-card-body">
+              <span class="book-card-category"><%= b.subject || b.category %> · Kelas <%= b.grade || "-" %></span>
+              <h3><%= b.title %></h3>
+              <p class="book-card-author"><%= b.author %></p>
+              <span class="stock-pill <%= b.availableCopies === 0 ? 'stock-empty' : 'stock-ok' %>">
+                <%= b.totalCopies %> / <%= b.borrowedCopies || 0 %> <span class="stock-label">total / dipinjam</span>
+              </span>
+            </div>
+          </a>
+        <% }); %>
+      </div>
+
+      <% if (totalPages > 1) { %>
+        <nav class="pagination" aria-label="Navigasi halaman katalog">
+          <% for (let p = 1; p <= totalPages; p++) { %>
+            <a
+              href="/katalog?page=<%= p %><%= activeCategory ? '&kategori=' + activeCategory : '' %><%= query ? '&q=' + encodeURIComponent(query) : '' %>"
+              class="<%= p === page ? 'active' : '' %>"
+            ><%= p %></a>
+          <% } %>
+        </nav>
+      <% } %>
+    <% } %>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
+</body>
+</html>

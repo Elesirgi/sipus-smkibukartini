@@ -1,0 +1,10 @@
+[
+  {
+    "username": "admin",
+    "name": "Admin Perpustakaan",
+    "passwordHash": "scrypt$16384$8$1$9f5e1b2ece814ab867557ca762607152$dcfec051ca4560176fee51130b86ae564ec3de20e4bf557471c1507fece2deaf4fed1598199cee71793581bf377303791e4febce5bf3ae998b81433646ec8c08",
+    "role": "admin",
+    "active": true,
+    "memberId": null
+  }
+]

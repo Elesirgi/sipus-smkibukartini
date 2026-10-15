@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head><%- include('partials/head') %></head>
+<body>
+<%- include('partials/header') %>
+<main class="welcome-main">
+  <!-- Katalog sengaja ditempatkan paling atas agar pengunjung langsung melihat koleksi. -->
+  <section class="welcome-section collection-section" id="koleksi">
+    <div class="wrap">
+      <div class="section-heading-row">
+        <div>
+          <p class="eyebrow">Koleksi Sekolah</p>
+          <h1 class="section-title">Katalog buku</h1>
+          <p class="section-side-note">Lihat koleksi buku pelajaran sekolah tanpa perlu login. Pilih buku untuk melihat detail lengkapnya.</p>
+        </div>
+        <a class="btn btn-primary" href="/katalog">Lihat Semua Buku</a>
+      </div>
+      <div class="welcome-book-grid">
+        <% books.forEach(function(b) { %>
+          <a class="welcome-book-card" href="/katalog/<%= encodeURIComponent(b.slug || b.id) %>">
+            <div class="book-cover book-cover-<%= b.category %>">
+              <img class="book-cover-image" src="/book-cover/<%= encodeURIComponent(b.id) %>" alt="Cover <%= b.title %>" loading="lazy">
+              <div class="book-cover-fallback">
+                <span class="book-cover-mini-label">SIPUS</span>
+                <span class="book-cover-title"><%= b.title %></span>
+                <span class="book-cover-author"><%= b.author %></span>
+              </div>
+            </div>
+            <div class="welcome-book-body">
+              <span class="book-card-category"><%= b.subject || b.category %> · Kelas <%= b.grade || '-' %></span>
+              <h3><%= b.title %></h3>
+              <p><%= b.author %></p>
+              <span class="stock-pill <%= b.availableCopies===0?'stock-empty':'stock-ok' %>"><%= b.totalCopies %> / <%= Math.max(0, Number(b.totalCopies||0)-Number(b.availableCopies||0)) %></span>
+            </div>
+          </a>
+        <% }); %>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<%- include('partials/footer') %>
+</body>
+</html>

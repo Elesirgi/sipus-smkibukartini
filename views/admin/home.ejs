@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head><%- include('../partials/head') %></head>
+<body class="admin-page">
+<%- include('../partials/header') %>
+<main>
+<section class="section page-hero admin-hero"><div class="wrap admin-page-title"><div><p class="eyebrow">Ruang Kerja Admin</p><h1 class="section-title">Panel Admin Perpustakaan</h1><p>Semua pengelolaan perpustakaan dipusatkan di sini.</p></div><a class="btn btn-primary" href="/admin/buku/tambah">+ Tambah Buku</a></div></section>
+<section class="section"><div class="wrap">
+<div class="admin-stats-grid">
+  <div class="admin-stat-card"><span>Total Judul</span><strong><%= stats.totalTitles %></strong><small>Koleksi</small></div>
+  <div class="admin-stat-card"><span>Eksemplar</span><strong><%= stats.totalCopies %></strong><small>Total fisik</small></div>
+  <div class="admin-stat-card"><span>Sedang Dipinjam</span><strong><%= stats.activeLoans %></strong><small>Transaksi aktif</small></div>
+  <div class="admin-stat-card warning"><span>Terlambat</span><strong><%= stats.overdueLoans %></strong><small>Perlu ditindak</small></div>
+</div>
+
+<div class="admin-section-head"><div><p class="eyebrow">Kelola Sistem</p><h2 class="section-title">Akses cepat</h2></div><span class="admin-role-badge">ADMIN</span></div>
+<div class="admin-action-grid">
+  <a class="admin-action-card" href="/admin/buku"><span class="admin-action-icon">BK</span><span><strong>Kelola Buku</strong><small>Tambah, edit, cover, inventaris, dan eksemplar.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/anggota"><span class="admin-action-icon">AG</span><span><strong>Kelola Anggota</strong><small>Tambah data anggota, foto, dan status keanggotaan.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/kategori"><span class="admin-action-icon">KT</span><span><strong>Kelola Kategori</strong><small>Tambah dan rapikan kategori koleksi buku.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/petugas"><span class="admin-action-icon">PT</span><span><strong>Kelola Petugas</strong><small>Atur akun petugas dan admin.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/sirkulasi"><span class="admin-action-icon">PJ</span><span><strong>Sirkulasi</strong><small>Peminjaman, pengembalian, dan perpanjangan.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/laporan"><span class="admin-action-icon">LP</span><span><strong>Laporan</strong><small>Rekap koleksi, peminjaman, denda, dan statistik.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/terlambat"><span class="admin-action-icon">TL</span><span><strong>Peminjaman Terlambat</strong><small>Kelola transaksi yang melewati jatuh tempo.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/audit"><span class="admin-action-icon">LG</span><span><strong>Audit Log</strong><small>Lihat jejak perubahan dan aktivitas admin.</small></span><b>→</b></a>
+  <a class="admin-action-card" href="/admin/backup/restore"><span class="admin-action-icon">DB</span><span><strong>Backup & Restore</strong><small>Cadangkan dan pulihkan data perpustakaan.</small></span><b>→</b></a>
+</div>
+
+<% if(overdueLoans.length){ %>
+<div class="admin-section-head"><div><p class="eyebrow">Perhatian</p><h2 class="section-title">Peminjaman Terlambat</h2></div><a class="btn btn-ghost" href="/admin/terlambat">Lihat Semua</a></div>
+<div class="loan-table-wrap"><table class="loan-table admin-table"><thead><tr><th>Peminjam</th><th>Buku</th><th>Jatuh Tempo</th><th>Denda</th></tr></thead><tbody><% overdueLoans.forEach(l=>{ %><tr><td><strong><%= l.member?.name||'-' %></strong></td><td><%= l.book?.title||'-' %></td><td><%= formatDateID(l.dueDate) %></td><td>Rp <%= Number(l.fine||0).toLocaleString('id-ID') %></td></tr><% }) %></tbody></table></div>
+<% } %>
+</div></section></main>
+<%- include('../partials/footer') %>
+</body></html>

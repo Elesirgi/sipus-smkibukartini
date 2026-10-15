@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head><%- include('../partials/head') %></head>
+<body class="admin-page">
+<%- include('../partials/header') %>
+<main>
+<section class="section page-hero">
+  <div class="wrap admin-page-title">
+    <div><p class="eyebrow">Panel Admin</p><h1 class="section-title">Sirkulasi</h1><p>Kelola peminjaman, pengembalian, dan perpanjangan buku.</p></div>
+    <a class="btn btn-ghost" href="/admin">← Panel Admin</a>
+  </div>
+</section>
+<section class="section"><div class="wrap">
+  <% if(message){ %><div class="form-success"><%= message %></div><% } %>
+  <% if(error){ %><div class="form-error"><%= error %></div><% } %>
+  <div class="admin-category-layout">
+    <section class="admin-form">
+      <div class="admin-form-section-title">Peminjaman Baru</div>
+      <form method="POST" action="/admin/sirkulasi/pinjam" class="admin-form">
+        <label class="form-field"><span>Anggota</span>
+          <select name="memberId" required>
+            <option value="">Pilih anggota…</option>
+            <% members.forEach(m=>{ %><option value="<%= m.id %>"><%= m.name %> — <%= m.kelas %></option><% }) %>
+          </select>
+        </label>
+        <label class="form-field form-field-wide"><span>Pilih Buku dan Jumlah <small>(bisa memilih beberapa jenis dan beberapa eksemplar dari judul yang sama, maksimal <%= limit %> buku aktif)</small></span></label>
+        <div class="admin-book-picker">
+          <% books.forEach(b=>{ %>
+            <div class="admin-book-pick">
+              <div class="admin-book-pick-info"><strong><%= b.title %></strong><small><%= b.author %> • Tersedia <%= b.availableCopies %> eksemplar</small></div>
+              <label class="admin-quantity"><span>Jumlah</span><input type="number" name="quantities[<%= b.id %>]" min="0" max="<%= b.availableCopies %>" value="0"><small>0 = tidak dipinjam</small></label>
+            </div>
+          <% }) %>
+        </div>
+        <% if(books.length===0){ %><p class="form-note">Tidak ada buku yang sedang tersedia untuk dipinjam.</p><% } %>
+        <div class="form-actions"><a class="btn btn-ghost" href="/admin">Batal</a><button class="btn btn-primary" type="submit" <%= books.length?'':'disabled' %>>Proses Peminjaman</button></div>
+      </form>
+    </section>
+    <section class="admin-form">
+      <div class="admin-form-section-title">Ringkasan</div>
+      <div class="summary-strip summary-strip-admin"><div><strong><%= activeLoans.length %></strong><span>pinjaman aktif</span></div><div class="danger"><strong><%= activeLoans.filter(l=>l.status==='terlambat').length %></strong><span>terlambat</span></div><div><strong><%= activeLoans.filter(l=>l.status==='dipinjam').length %></strong><span>tepat waktu</span></div></div>
+      <div class="admin-mini-links"><a class="admin-action-card" href="/admin/terlambat"><span class="admin-action-icon">TL</span><span><strong>Peminjaman Terlambat</strong><small>Lihat semua transaksi yang melewati jatuh tempo.</small></span><b>→</b></a><a class="admin-action-card" href="/admin/laporan"><span class="admin-action-icon">LP</span><span><strong>Laporan</strong><small>Buka laporan administrasi perpustakaan.</small></span><b>→</b></a></div>
+    </section>
+  </div>
+</div></section>
+<section class="section"><div class="wrap">
+  <div class="admin-section-head"><div><p class="eyebrow">Transaksi</p><h2 class="section-title">Peminjaman Aktif & Riwayat</h2></div></div>
+  <% if(loans.length===0){ %><div class="empty-card">Belum ada transaksi peminjaman.</div><% } else { %>
+  <div class="loan-table-wrap"><table class="loan-table admin-table"><thead><tr><th>ID</th><th>Buku</th><th>Peminjam</th><th>Pinjam</th><th>Jatuh Tempo</th><th>Status</th><th>Denda</th><th>Aksi</th></tr></thead><tbody>
+  <% loans.forEach(l=>{ %><tr class="<%= l.status==='terlambat'?'row-overdue':'' %>"><td class="loan-id"><%= l.id %></td><td><strong><%= l.book?.title||'-' %></strong><small class="table-sub"><%= l.copy?.id||'-' %></small></td><td><%= l.member?.name||'-' %><small class="table-sub"><%= l.member?.kelas||'' %></small></td><td><%= formatDateID(l.borrowDate) %></td><td><%= formatDateID(l.dueDate) %><% if(l.status==='terlambat'){ %><small class="overdue-note"><%= l.overdueDays %> hari</small><% } %></td><td><span class="status-badge status-<%= l.status %>"><%= l.status %></span></td><td>Rp <%= Number(l.fine||0).toLocaleString('id-ID') %></td><td><% if(l.status!=='dikembalikan'){ %><div class="action-stack"><% if(l.status==='dipinjam'&&!l.renewals){ %><form action="/admin/peminjaman/<%= encodeURIComponent(l.id) %>/perpanjang" method="POST"><button class="btn-edit" type="submit">+7 hari</button></form><% } %><form action="/admin/peminjaman/<%= encodeURIComponent(l.id) %>/kembali" method="POST" class="inline-form"><select name="condition"><option value="baik">Baik</option><option value="rusak ringan">Rusak Ringan</option><option value="rusak berat">Rusak Berat</option><option value="hilang">Hilang</option></select><button class="btn-return" type="submit">Kembalikan</button></form></div><% } else { %><span class="loan-return-date"><%= formatDateID(l.returnDate) %></span><% } %></td></tr><% }) %>
+  </tbody></table></div>
+  <% } %>
+</div></section>
+</main>
+<%- include('../partials/footer') %>
+</body></html>

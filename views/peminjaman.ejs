@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="id"><head><%- include('partials/head') %></head><body>
+<%- include('partials/header') %>
+<section class="section page-hero"><div class="wrap">
+  <div class="page-heading-row"><div><p class="eyebrow">Sirkulasi</p><h1 class="section-title">Peminjaman</h1><p>Lihat status peminjaman, keterlambatan, denda, dan riwayat pengembalian. Peminjaman dan pengembalian diproses oleh Admin Perpustakaan.</p></div><div class="page-heading-actions"><% if(isAdmin){ %><a class="btn btn-primary" href="/katalog">+ Peminjaman Baru</a><a class="btn btn-ghost" href="/admin/laporan">Laporan</a><% } %></div></div>
+  <div class="summary-strip"><div><strong><%= counts.dipinjam %></strong><span>sedang dipinjam</span></div><div class="danger"><strong><%= counts.terlambat %></strong><span>terlambat</span></div><div><strong><%= counts.dikembalikan %></strong><span>dikembalikan</span></div><div><strong>Rp <%= (totalFines || 0).toLocaleString('id-ID') %></strong><span>total denda terhitung</span></div></div>
+  <div class="category-filter">
+    <a href="/peminjaman?sort=<%= sort %>&dir=<%= dir %>" class="<%= !activeStatus ? 'active' : '' %>">Semua (<%= counts.semua %>)</a>
+    <a href="/peminjaman?status=dipinjam&sort=<%= sort %>&dir=<%= dir %>" class="<%= activeStatus === 'dipinjam' ? 'active' : '' %>">Dipinjam (<%= counts.dipinjam %>)</a>
+    <a href="/peminjaman?status=terlambat&sort=<%= sort %>&dir=<%= dir %>" class="<%= activeStatus === 'terlambat' ? 'active' : '' %>">Terlambat (<%= counts.terlambat %>)</a>
+    <a href="/peminjaman?status=dikembalikan&sort=<%= sort %>&dir=<%= dir %>" class="<%= activeStatus === 'dikembalikan' ? 'active' : '' %>">Dikembalikan (<%= counts.dikembalikan %>)</a>
+  </div>
+</div></section>
+<section class="section"><div class="wrap">
+<% if (loans.length === 0) { %><p class="empty-note">Tidak ada data peminjaman untuk filter ini.</p><% } else { %>
+<% function sortLink(field,label){ const nextDir=(sort===field&&dir==='asc')?'desc':'asc'; const arrow=sort===field?(dir==='asc'?' ↑':' ↓'):''; const statusParam=activeStatus?`&status=${activeStatus}`:''; return `<a href="/peminjaman?sort=${field}&dir=${nextDir}${statusParam}" class="sort-link${sort===field?' sort-active':''}">${label}${arrow}</a>`; } %>
+<div class="loan-table-wrap"><table class="loan-table"><thead><tr><th><%- sortLink('id','ID') %></th><th><%- sortLink('book','Buku') %></th><th><%- sortLink('member','Peminjam') %></th><th><%- sortLink('borrowDate','Tanggal Pinjam') %></th><th><%- sortLink('dueDate','Jatuh Tempo') %></th><th>Status</th><th>Denda</th><th>Aksi</th></tr></thead><tbody>
+<% loans.forEach(function(l){ %><tr class="<%= l.status==='terlambat'?'row-overdue':'' %>"><td class="loan-id"><%= l.id %></td><td><a href="/katalog/<%= encodeURIComponent(l.book.slug || l.book.id) %>"><strong><%= l.book.title %></strong></a></td><td><a href="/anggota/<%= l.member.id %>"><%= l.member.name %></a></td><td><%= formatDateID(l.borrowDate) %></td><td><%= formatDateID(l.dueDate) %><% if(l.status==='terlambat'){ %><small class="overdue-note"><%= l.overdueDays %> hari</small><% } %></td><td><span class="status-badge status-<%= l.status %>"><%= l.status %></span></td><td><%= l.fine ? 'Rp '+l.fine.toLocaleString('id-ID') : 'Rp 0' %></td><td><% if(l.status==='dikembalikan'){ %><span class="loan-return-date"><%= formatDateID(l.returnDate) %></span><% } else { %><span class="loan-return-date">Diproses oleh Admin</span><% } %></td></tr><% }); %>
+</tbody></table></div>
+<% if(totalPages>1){ %><nav class="pagination" aria-label="Navigasi halaman"><% for(let p=1;p<=totalPages;p++){ %><a href="/peminjaman?page=<%= p %><%= activeStatus?'&status='+activeStatus:'' %>&sort=<%= sort %>&dir=<%= dir %>" class="<%= p===page?'active':'' %>"><%= p %></a><% } %></nav><% } %>
+<% } %>
+<div class="info-callout"><strong>Aturan denda:</strong> keterlambatan dihitung <strong>Rp <%= finePerDay.toLocaleString('id-ID') %>/hari</strong>. Sistem menghitung otomatis sampai tanggal pengembalian atau hari ini untuk buku yang masih terlambat.</div>
+</div></section><%- include('partials/footer') %></body></html>
